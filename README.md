@@ -1,5 +1,7 @@
 ## demo app - developing with Docker
 
+<img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" length=300 width=300 alt=docker align=right>
+
 This demo app shows a simple user profile app set up using 
 - index.html with pure js and css styles
 - nodejs backend with express module
