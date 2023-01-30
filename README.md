@@ -1,4 +1,5 @@
-## demo app - developing with Docker
+## Basic Web app 
+(Developed with docker)
 
 <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" length=300 width=300 alt=docker align=right>
 
